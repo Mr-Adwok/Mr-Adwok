@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Mr-Adwok/Mr-Adwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Adwok Saberio Simon !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a junior developer with a passion for building web applications using Python,Javascript. I'm constantly learning and exploring new Backend technologies to enhance my skills and contribute to exciting projects.
+
+## 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript, HTML, CSS
+- Backend: Python,Fastapi,Django, Nest js
+- **Tools:** Git, GitHub, VS Code, npm,pip,uv
+
+## 🌱 Currently Learning
+- Data Structure and Algorithm 
+- Backend basics with Nest js
+- Advance concept of Backend with Python (Fastapi). 
+
+
